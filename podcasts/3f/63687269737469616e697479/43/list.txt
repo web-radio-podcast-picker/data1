@@ -1,6 +1,3 @@
-📚|📚http://www.cross.tv/api/tvshow/list.php?action=itunes_feed&channel_id=227
-📚|📚http://www.cross.tv/api/tvshow/list.php?action=itunes_feed&entries_per_page=200&channel_id=5277&audio=1
-CA Youth GPdI Tuban Podcast📚|📚https://anchor.fm/s/1d7a2a5c/podcast/rss
 Calendario Espiritual📚|📚http://www.podcast.catholic.net/cabina/rss/podcastid47.xml
 Calvary Chapel Foothill Ranch Podcasts📚|📚http://feeds.feedburner.com/CalvaryChapelFoothillRanchNetcasts
 Calvary Chapel West Oahu📚|📚http://calvarychapelwestoahu.org/media/preachit/podcasts.xml

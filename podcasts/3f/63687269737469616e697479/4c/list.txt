@@ -1,5 +1,3 @@
-📚|📚http://www.lightcast.com/api/tvshow/list.php?action=itunes_feed&entries_per_page=200&channel_id=26505&audio=1
-L.I.F.T. Project📚|📚https://anchor.fm/s/13fb3750/podcast/rss
 Lastorya Inspiration📚|📚https://anchor.fm/s/d3cf0c0/podcast/rss
 Latter-day Peace Studies presents: Come, Follow Me📚|📚https://feeds.castos.com/q611
 LCC Sunday Messages📚|📚http://feeds.rapidfeeds.com/2626/
