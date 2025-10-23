@@ -1,0 +1,4 @@
+덕다📚|📚http://pod.ssenhosting.com/rss/otadara/otadara.xml
+덕력대전 시즌2📚|📚http://pod.ssenhosting.com/rss/playone/playone.xml
+덕보드차트📚|📚https://api.podty.me/api/v1/share/cast/644fea989618952fc41afff2201f52cc9e2263692679ee4ad061d8e01be85dfa/178259
+덕후토크쇼 더쿠로📚|📚https://api.podty.me/api/v1/share/cast/0cd733de1436687ae6db7fc1e2e5bac7b4ae43a1cd9c8834f4a98546379007d4/174447

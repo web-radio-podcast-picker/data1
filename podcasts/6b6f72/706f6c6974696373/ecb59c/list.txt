@@ -1,0 +1,3 @@
+최경영의 이슈 오도독📚|📚https://api.kbs.co.kr/mediafactory/v1/podcast/rss/I0000-2017-issue
+최지웅의 레프트훅📚|📚http://pod.ssenhosting.com/rss/lefthook/hook.xml
+최형진의 오~! 뉴스📚|📚https://radiochat.ytn.co.kr/podcast/program.php?m_cd=0412

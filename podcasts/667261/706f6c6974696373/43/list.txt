@@ -1,0 +1,49 @@
+C'est dans ta nature📚|📚https://apis.rfi.fr/products/get_product/rfi_getpodcast_by_nid?token_application=975d23b8-7a07-11e8-9f62-005056a90194&program.entrepriseId=WB1880006-RFI-FR-20200515
+C'est en France📚|📚https://www.france24.com/fr/%C3%A9missions/cest-en-france/podcast
+C'EST LÉGAL !📚|📚https://feeds.acast.com/public/shows/e92cf5ca-d864-5260-b91d-6d497cf52969
+C'est pas trop tôt - RTS📚|📚https://www.rts.ch/la-1ere/programmes/c-est-pas-trop-tot/podcast/?flux=rss
+C'EST QUOI LE PROGRAMME ?📚|📚https://feed.ausha.co/oRW0dh5np38Q
+Café Club📚|📚https://cafeclub.lepodcast.fr/rss
+Cameroun - Voix de l'Amérique📚|📚https://www.voaafrique.com/podcast/?count=50&zoneId=5602
+Cap Amériques📚|📚https://www.france24.com/fr/%C3%A9missions/cap-am%C3%A9riques/podcast
+Cap océan Indien📚|📚https://www.rfi.fr/fr/podcasts/cap-ocean-indien/podcast
+Capsentis Podcasts📚|📚https://feeds.buzzsprout.com/1010746.rss
+Carnage américain📚|📚https://feeds.buzzsprout.com/1291613.rss
+Carnet de santé - Voix de l'Amérique📚|📚https://www.voaafrique.com/podcast/?count=50&zoneId=4031
+Carnets de campagne📚|📚https://radiofrance-podcast.net/podcast09/rss_20879.xml
+Carrefour Sciences et Santé - Dimanche 2030 - Voix de l'Amérique📚|📚https://www.voaafrique.com/podcast/?count=50&zoneId=3277
+Carrément Méchants📚|📚https://feeds.radiokawa.com/podcast_carrement-mechants.xml
+Carte blanche de Didier Rance – Radio Notre Dame📚|📚https://radionotredame.net/emissions/carteblanche/feed/podcasts/
+Carte d'électeurs📚|📚https://www.rfi.fr/fr/podcasts/carte-electeurs/podcast
+Centrafrique - Voix de l'Amérique📚|📚https://www.voaafrique.com/podcast/?count=50&zoneId=5604
+Ces lieux qui changent, pour le meilleur et pour le pire📚|📚https://www.rfi.fr/fr/podcasts/ces-lieux-changent-meilleur-pire/podcast
+Cette Fois C'est La Bonne !📚|📚https://feeds.radiokawa.com/podcast_cette-fois-cest-la-bonne.xml
+Chaine Trois | YADES📚|📚https://podcast.radioalgerie.dz/fr/podcasts/Chaine%20Trois/39061/podcast.xml
+Chanson! - RTS📚|📚https://www.rts.ch/couleur3/programmes/chanson/podcast/?flux=rss
+Chateaudun 2020📚|📚https://anchor.fm/s/207a8ef4/podcast/rss
+Chevenement.fr | le blog de Jean-Pierre Chevènement📚|📚https://www.chevenement.fr/xml/podcast.xml
+Chine - Voix de l'Amérique📚|📚https://www.voaafrique.com/podcast/?count=50&zoneId=6130
+Chirac : une histoire française📚|📚https://feeds.audiomeans.fr/feed/b242910a-c5d1-4a23-9830-57b074980c59.xml
+Chronique & Revue de presse | Pape Alé Niang📚|📚https://chronique-revuedepressepapealeniang.lepodcast.fr/rss
+CIBL 101.5 FM : La matinale📚|📚https://feeds.feedburner.com/LaMatinale
+CISM 89.3 : À l'horizon📚|📚https://podcast.cism893.ca/radioshow/feed_itunes/1601.xml
+CISM 89.3 : À la bonne heure📚|📚http://podcast.cism893.ca/radioshows/663/feed_itunes.xml
+CISM 89.3 : Arnaques et combines📚|📚http://podcast.cism893.ca/radioshows/1651/feed_itunes.xml
+CISM 89.3 : Troisième sexe📚|📚https://podcast.cism893.ca/radioshows/1313/feed_itunes.xml
+Code source📚|📚https://feeds.acast.com/public/shows/9f905938-baf3-4214-bd26-65999b4899d7
+Collectif pour la Vérité des Urnes📚|📚https://feeds.feedburner.com/CollectifPourLaVeriteDesUrnes
+Combat de Reines: Pop-Culture, Marxisme et Glamour📚|📚https://feeds.buzzsprout.com/642298.rss
+Comores - Voix de l'Amérique📚|📚https://www.voaafrique.com/podcast/?count=50&zoneId=5605
+Conférences d'Henri Guillemin📚|📚https://podcast.scouderc.com/Guillemin/feed.xml
+Conférences St Waast📚|📚http://www.icrsp-lille.fr/audio/confStWaast/conferences.xml
+Conférences UPR📚|📚http://feeds.feedburner.com/ConferencesUPR
+Conseils Municipaux de Nogent sur Marne, 94130📚|📚http://www.nogent-citoyen.com/media/podcast-conseils-municipaux-nogent-sur-marne.rss
+Contre-Faits📚|📚https://apis.france24.com/products/get_product/f24_getpodcast_by_nid?token_application=33d60288-7e20-11e9-884b-005056a9c687&program.entrepriseId=WB5337228-F24-FR-20181213
+Conversation express📚|📚https://theconversation.com/fr/podcasts/conversation-express.rss
+Coronavirus📚|📚https://www.letelegramme.fr/podcast/coronavirus/podcast-apple.xml
+Correspondants VOA - Voix de l'Amérique📚|📚https://www.voaafrique.com/podcast/?count=50&zoneId=4960
+Côte d'Ivoire - Voix de l'Amérique📚|📚https://www.voaafrique.com/podcast/?count=50&zoneId=5607
+Crackopolis📚|📚https://www.arteradio.com/xml_sound_serie?seriename=%22CRACKOPOLIS%22
+Crash Test - L'Émission.📚|📚https://rdvdissident.lepodcast.fr/rss
+Ctrl Alt News📚|📚http://feeds.feedburner.com/ctrlaltnews
+Cute Travail📚|📚https://cute.podbean.com/feed.xml

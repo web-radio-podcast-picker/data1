@@ -1,0 +1,5 @@
+소리술사의 BLUX📚|📚http://api.podty.me/api/v1/share/cast/8c18f0f603777e9486881f54cd5fe7ad4cacb7832472a0ecac2955cc1e2482e3/184548
+소설도시📚|📚http://pod.ssenhosting.com/rss/scholl1978.xml
+소셜스타 인터뷰쇼 '미개인'📚|📚http://pod.ssenhosting.com/rss/nudgestory/nudgestory.xml
+소영쓰 라이프📚|📚http://pod.ssenhosting.com/rss/nana00625/nana00625.xml
+소이소스(소소한 이야기, 소소한 스토리)📚|📚http://pod.ssenhosting.com/rss/brbuilder/soysauce.xml

@@ -1,0 +1,4 @@
+팟캐스트 숨과쉼📚|📚https://api.podty.me/api/v1/share/cast/bce2cb89cbed28b43a25807d00015cb98f0aa552d4f692ac65b5b8305574d044/198247
+팟캐스트 스티브잡소리📚|📚http://pod.ssenhosting.com/rss/echo00.xml
+팟캐스트 제주 관덕정옆📚|📚https://api.podty.me/api/v1/share/cast/891de898051450015c6f3d23be00ed77df3fe1047a30a1614e6ac2f648505aa3/190381
+팟캐스트 주간나홀로📚|📚http://pod.ssenhosting.com/rss/bbcceed/bbcceed.xml

@@ -1,0 +1,5 @@
+주간 아이엠피터📚|📚https://api.podty.me/api/v1/share/cast/068bd882fb0b81b804705f9d03cfc4c4ad4478f315e0a56e82ba5ac835365bfc/185610
+주간개소리 시즌2📚|📚http://pod.ssenhosting.com/rss/nisnas/dogsound.xml
+주말 뉴스쇼📚|📚https://www.omnycontent.com/d/playlist/53ac8cb6-b299-4f93-8280-af50012ddab0/feea0366-723b-4e42-997a-af56000e12c6/4b2ca8af-1367-4e25-bfb8-af56000e12ec/podcast.rss
+주말엔📚|📚https://www.omnycontent.com/d/playlist/53ac8cb6-b299-4f93-8280-af50012ddab0/cf40e914-acdd-4bf0-8669-af56000e1329/b5ace285-813c-4ebc-a5ed-af56000e1353/podcast.rss
+주식수다 대주주(大株酒)📚|📚http://api.podty.me/api/v1/share/cast/45a1ff557b2b280b12e9ebe62eeec34359d45f5ad2f9b6fc71667378e396fc82/178125

@@ -1,0 +1,6 @@
+Ö1 Europa-Journal📚|📚https://podcast.orf.at/podcast/oe1/oe1_europajournal/oe1_europajournal.xml
+Ö1 Infos en français📚|📚https://static.orf.at/podcast/oe1/oe1_actualites.xml
+Ö1 Klartext📚|📚https://podcast.orf.at/podcast/oe1/oe1_klartext/oe1_klartext.xml
+Ö3 Nachrichten-Podcast📚|📚https://anchor.fm/s/10cef8f0/podcast/rss
+ÖDP Regensburg Podcast📚|📚https://oedp-podcast-regensburg.de/feed/mp3/
+ÖsterreichInfo📚|📚https://anchor.fm/s/2344bab0/podcast/rss

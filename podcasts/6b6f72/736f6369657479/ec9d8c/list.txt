@@ -1,0 +1,3 @@
+음악몰라요📚|📚https://api.podty.me/api/v1/share/cast/b3b28bd01481242f61b990ef28b94cd74d820aaaf0145b8ba201514b39fb489b/181477
+음주시간📚|📚http://pod.ssenhosting.com/rss/whopm/owhopm.xml
+음주유감📚|📚http://feeds.feedburner.com/umjuyougam

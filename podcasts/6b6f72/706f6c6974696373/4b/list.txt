@@ -1,0 +1,7 @@
+KBIC 뉴스📚|📚http://pod.ssenhosting.com/rss/kbic2/kbicnews.xml
+KBS 열린토론📚|📚https://api.kbs.co.kr/mediafactory/v1/podcast/rss/R2018-0043-opendebate
+KBS 정치합시다📚|📚http://api.podty.me/api/v1/share/cast/d0db8625de42d8806aa2f70e861d33ba233ce0256bbf92a9f83be51bdf30d863/201850
+Kholic Video📚|📚http://pod.ssenhosting.com/rss/kholic.xml
+Korea Pod -시사영어방송 with Henry Shinn📚|📚https://api.podty.me/api/v1/share/cast/ef46b0a0e2e22cb4ef68b07cc38d0835cf2bc215014a12563e86bb6b0f443a5b/181071
+Korea, Factual📚|📚http://pod.ssenhosting.com/rss/tbsadm/pbchannel_36865.xml
+Korean News - NHK WORLD RADIO JAPAN📚|📚http://www3.nhk.or.jp/rj/podcast/rss/korean.xml

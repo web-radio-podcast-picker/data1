@@ -1,0 +1,8 @@
+Game*Spark コアゲーマー向けゲーム情報📚|📚https://ad.robotstart.jp/api/v1/feeds/36cf049c/get-feeds/podcast
+Game*Sparkの「ラジオ善意」📚|📚https://anchor.fm:443/s/1a710844/podcast/rss
+GameBusiness.jp 最新ゲーム業界動向📚|📚https://ad.robotstart.jp/api/v1/feeds/3726049a/get-feeds/podcast
+Gear x Gear📚|📚https://gearxgear.com/feed/podcast
+GOOD DAY by GAME DAY Team📚|📚https://anchor.fm/s/1e860c18/podcast/rss
+Good Night Cafe📚|📚https://anchor.fm/s/24c613e8/podcast/rss
+GOOTARADIO📚|📚https://anchor.fm/s/30bbcc4c/podcast/rss
+GYAKUHARA2📚|📚https://anchor.fm/s/b5dff60/podcast/rss

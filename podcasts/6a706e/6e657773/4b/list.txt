@@ -1,0 +1,5 @@
+KBS WORLD Radio ニュース📚|📚http://world.kbs.co.kr/rss/Podcast_News_j.xml
+KIZUNAチャンネル📚|📚http://potcast-konnai05.seesaa.net/index_custom.rdf
+KNN MUSIC📚|📚https://anchor.fm/s/1ba5fe68/podcast/rss
+KOJIN Cast📚|📚https://anchor.fm/s/21932a1c/podcast/rss
+koni📚|📚https://anchor.fm/s/35b2403c/podcast/rss

@@ -1,0 +1,6 @@
+シネマ 銀幕の夜📚|📚https://www.radionikkei.jp/podcast/cinemarn2/rss.xml
+シネマおばけ📚|📚https://anchor.fm/s/1181a6bc/podcast/rss
+シネマカフェ最新映画&エンタメ情報📚|📚https://ad.robotstart.jp/api/v1/feeds/37050497/get-feeds/podcast
+シネマトゥデイ ニュース📚|📚https://ad.robotstart.jp/api/v1/feeds/37430490/get-feeds/podcast
+シネマ観むら、始まるってよ。📚|📚https://anchor.fm/s/f7b65b0/podcast/rss
+シュン＝シスカスの　朝からごめんね📚|📚http://asakaragomenne.seesaa.net/index20.rdf

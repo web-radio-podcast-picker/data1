@@ -1,0 +1,16 @@
+tbs eFM A Little Of A Lot📚|📚http://pod.ssenhosting.com/rss/tbsadm/alal.xml
+tbs eFM The Steve Hatherly Show📚|📚http://pod.ssenhosting.com/rss/tbsadm/tsth.xml
+tbs eFM 偶像的品格(우상적품격)📚|📚http://pod.ssenhosting.com/rss/tbsadm/pbchannel_33661.xml
+TBS FM <좋은사람들 송정애입니다>📚|📚http://pod.ssenhosting.com/rss/tbsadm/goodpeople.xml
+tbs 가슴에 담아온 작은 목소리📚|📚http://pod.ssenhosting.com/rss/tbsadm/smallvoice.xml
+tbs 라디오 와이파이📚|📚http://pod.ssenhosting.com/rss/tbsadm/wifi.xml
+tbs 서울속으로 황원찬입니다📚|📚http://pod.ssenhosting.com/rss/tbsadm/intoseoul.xml
+tbs 이정렬의 품격시대📚|📚http://pod.ssenhosting.com/rss/tbstv/classytimes.xml
+TBS 정준희의 해시태그📚|📚https://api.podty.me/api/v1/share/cast/e2e6993ae92949365918a06ffb9e48d8b0daa655d33457b7eaa798675f774642/203642
+The Anatolian Shepherds📚|📚http://pod.ssenhosting.com/rss/danialous/rhapsodie.xml
+The Greater Community📚|📚https://api.podty.me/api/v1/share/cast/fd13b06173217951a21ad240b4a06552b776a050424d46db350537671c7a079f/177330
+The New Messanger📚|📚https://api.podty.me/api/v1/share/cast/e4d044f5b48711ec05c6a870a3dfd9616949121319621521e114d854053ef7f8/177329
+The One God📚|📚https://api.podty.me/api/v1/share/cast/25d1af7694dcdfacfbbc3141c00fb35450d39f76e9c79c994a6c141202995410/177328
+The Pure Religion📚|📚https://api.podty.me/api/v1/share/cast/3232c5764fc5e074c1f0a816dce255043f295bbc4b7cb235b80dfa4930784170/177372
+The 사소한📚|📚https://api.podty.me/api/v1/share/cast/ad45d6cc11309e32af399a877ceefc53a13d8f21018c69e028666856283ca884/189715
+Touch Bible📚|📚http://pod.ssenhosting.com/rss/leeoxy/touchbible.xml

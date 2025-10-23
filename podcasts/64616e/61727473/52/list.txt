@@ -1,0 +1,11 @@
+Radiofortællinger📚|📚https://api.dr.dk/podcasts/v1/feeds/radiofortaellinger.xml?format=podcast&limit=100
+Radioklassikeren📚|📚https://api.dr.dk/podcasts/v1/feeds/radioklassikeren.xml?format=podcast&limit=100
+Randi- om ekspressionisme📚|📚https://anchor.fm/s/1cdd6d5c/podcast/rss
+Random thought📚|📚https://anchor.fm/s/2c89b2c4/podcast/rss
+ReAct!📚|📚https://www.react-gym.dk/feed/podcast/
+Regler og D-Tours📚|📚https://feeds.buzzsprout.com/1182389.rss
+Ridserne i lakken📚|📚https://feeds.buzzsprout.com/186101.rss
+RMC Podcast📚|📚https://pinecast.com/feed/rmc-podcast
+Rolf er rørt📚|📚https://api.dr.dk/podcasts/v1/feeds/rolf-er-roert.xml?format=podcast
+Rosas Reality Radio📚|📚https://feed.podbean.com/rosasreality/feed.xml
+Rosenkjærprisen📚|📚https://api.dr.dk/podcasts/v1/feeds/rosenkjaerprisen.xml?format=podcast&limit=100

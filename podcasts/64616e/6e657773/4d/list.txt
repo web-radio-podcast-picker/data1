@@ -1,0 +1,28 @@
+MagaBoco📚|📚https://feed.podcastmachine.com/podcasts/40/mp3.rss
+Magten📚|📚https://api.dr.dk/podcasts/v1/feeds/slotsholmen.xml?format=podcast
+ManFred📚|📚https://pinecast.com/feed/manfred
+Mark Busted📚|📚https://feeds.soundcloud.com/users/soundcloud:users:10411611/sounds.rss
+Marvel Mandag📚|📚https://marvelmandag.libsyn.com/rss
+MediaCast📚|📚http://feeds.feedburner.com/media-cast
+Medieblogger📚|📚https://www.spreaker.com/show/3671906/episodes/feed
+MEDIEMØLLEN📚|📚https://www.radio4.dk/rss/podcast/mediemollen.rss
+MedWatch📚|📚https://www.spreaker.com/show/3328844/episodes/feed
+Mellemfolkeligt Samvirke📚|📚https://feeds.soundcloud.com/users/soundcloud:users:296880505/sounds.rss
+Mennesker og Maskiner📚|📚https://feeds.blubrry.com/feeds/menneskerogmaskiner.xml
+MereMobil.dk, John G📚|📚https://meremobil.dk/?feed=podcast
+Mikeintosh Podcast📚|📚https://www.spreaker.com/show/3422564/episodes/feed
+Min Vej - Et podcast talkshow📚|📚https://www.spreaker.com/show/4118365/episodes/feed
+Misinformeret📚|📚https://misinformeret.libsyn.com/rss
+Mit livs overskrift📚|📚https://www.spreaker.com/show/4655286/episodes/feed
+Mit Solrød📚|📚https://www.spreaker.com/show/4089636/episodes/feed
+Mød partilederen📚|📚https://www.omnycontent.com/d/playlist/1283f5f4-2508-4981-a99f-acb500e64dcf/91f1ffe1-2223-441d-97ae-ad0800af363c/9cc86820-f9fb-4050-8828-ad0800af364a/podcast.rss
+Møder fra salen📚|📚https://mobiltv.ft.dk/feed/Salen
+Moderen der tappede sin søn for blod📚|📚https://www.spreaker.com/show/3338169/episodes/feed
+Moderne Ideer📚|📚https://moderneideer.podbean.com/feed.xml
+Modsætninger Mødes📚|📚http://rss.castbox.fm/everest/90a5a9e435fe4eb18f8d78bed2f12fc5.xml
+Mogens & Holger Bider til Benet📚|📚https://www.spreaker.com/show/4621916/episodes/feed
+Morgen med Nicolas📚|📚https://rss.podplaystudio.com/1079.xml
+Morgen på Radio 100 - Ugens Udvalgte📚|📚https://rss.podplaystudio.com/1048.xml
+Morgen på Radio 100 i dag📚|📚https://rss.podplaystudio.com/1089.xml
+Morgencaféen📚|📚https://vault.podkaster.dk/feed/13
+Morgenmenneske📚|📚https://www.omnycontent.com/d/playlist/414edbb4-4b91-4960-8650-ad4000dbc027/4fb374d2-039b-4511-be94-ad4800e69307/db6c5507-01f8-425b-8fc2-ad4800e69310/podcast.rss

@@ -1,0 +1,31 @@
+APATYKÁŘ® – Podcast📚|📚https://www.apapodcast.cz/podcast/rss.xml
+Autoři osobně📚|📚https://feeds.transistor.fm/autori-osobne
+Babylon📚|📚https://anchor.fm/s/10e13038/podcast/rss
+Beef&Chipz📚|📚https://api.youradio.cz/news/v2.0/shows/rss/beef-chipz
+Český rozhlas - Komentáře a glosy📚|📚https://api.mujrozhlas.cz/rss/topic/f5d0af23-2bda-4d59-8b70-d3b60b4e0eec.xml
+Coronacast [Školní projekt]📚|📚https://anchor.fm/s/179ff940/podcast/rss
+Dopravní podcast📚|📚https://feeds.buzzsprout.com/543583.rss
+Epicentrum📚|📚https://anchor.fm/s/2af7bec4/podcast/rss
+Eseje o stavu světa📚|📚https://api.mujrozhlas.cz/rss/podcast/de05655c-72fa-3b6d-b090-ad4b054b5029.rss
+Glosa Plus📚|📚https://api.mujrozhlas.cz/rss/podcast/9f676637-9f2d-3199-bc88-fd7722ea5a79.rss
+INTERVIEW - CNN Prima NEWS📚|📚https://www.omnycontent.com/d/playlist/770bc764-4dfe-4f70-a637-aca80102c3f9/f13036e7-cd64-443d-9a4d-acae00e63c49/f987b825-cbbf-4c80-8365-ad9400ad1f99/podcast.rss
+Interview Martina Kováře📚|📚https://api.youradio.cz/news/v1.0/shows/interview-martina-kovare.rss
+Interview rádia ZET📚|📚https://api.youradio.cz/news/v2.0/shows/rss/interview-radia-z
+JACKPOT 919📚|📚https://anchor.fm/s/b56fae4/podcast/rss
+JARA HRNÁL's show📚|📚https://www.spreaker.com/show/2133293/episodes/feed
+Lidovky.cz📚|📚https://anchor.fm/s/37272aa4/podcast/rss
+MaXXimum muziky📚|📚https://api.youradio.cz/news/v2.0/shows/rss/maxximum-muziky
+Názory a argumenty📚|📚https://api.mujrozhlas.cz/rss/podcast/f4133d64-ccb2-30e7-a70f-23e9c54d8e76.rss
+Očima Saši Mitrofanova📚|📚https://feeds.transistor.fm/ocima-sasi-mitrofanova
+On, Ona a čaj o páté📚|📚https://anchor.fm/s/3503e578/podcast/rss
+Pepa Vlček a jeho Fanda📚|📚https://feeds.buzzsprout.com/812297.rss
+politicon.eu📚|📚http://politiconeu.4fan.cz/feed/podcast/
+Prolomit vlny📚|📚https://api.mujrozhlas.cz/rss/podcast/1830c088-61da-381d-b423-8806b162acc5.rss
+Ranní host📚|📚https://api.youradio.cz/news/v1.0/shows/ranni-host-radia-z.rss
+Reflektor📚|📚https://www.spreaker.com/show/4306247/episodes/feed
+tracklist.cz📚|📚https://anchor.fm/s/4ce08160/podcast/rss
+Trafika📚|📚https://feeds.transistor.fm/trafika
+Under The MainTree_radio show📚|📚https://anchor.fm/s/2bcab8ec/podcast/rss
+Vlevo dole📚|📚https://feeds.transistor.fm/vlevo-dole
+Vojtasův Podcast O Podcastech📚|📚https://anchor.fm/s/2d0c4acc/podcast/rss
+Výrok týdne📚|📚https://api.mujrozhlas.cz/rss/podcast/c1269c98-28b6-31ad-a536-f0f6550bcacb.rss

@@ -1,0 +1,5 @@
+오늘의 날씨📚|📚https://news.sbs.co.kr/news/VoicePodcast.do?prog_id=1000000004
+오늘의 미국 TodayUS📚|📚http://www.todayus.com/pod/todayus_podcast.xml
+오늘의늬우스📚|📚http://api.podty.me/api/v1/share/cast/f66d632380245839bdfc3c7a23512b50d1551d47b3da7b8ce146f403b4c3f787/205761
+오미연의 헤이데이📚|📚http://pod.ssenhosting.com/rss/mysung52/OMY.xml
+오토트랜드 자동차 및 모터스포츠📚|📚https://api.podty.me/api/v1/share/cast/1bee7fbb543df19ad025bf46d266fcfdc2f4ed8f77a213b773b3c0640efafb20/185103

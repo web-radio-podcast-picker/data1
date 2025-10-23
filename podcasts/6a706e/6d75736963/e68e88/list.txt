@@ -1,0 +1,9 @@
+授業：ダイアナ・ボール石山「ミュージカル概論」📚|📚http://ocw.senzoku.ac.jp/itu/h24/H24_Musical_Gairon_Diana/Musical_Gairon_Diana.xml
+授業：伊藤康英「試奏学演奏理論」📚|📚http://ocw.senzoku.ac.jp/itu/h24/H24_Suisogaku-Ensoriron_ito/Suisogaku-Ensoriron_ito.xml
+授業：佐藤達哉「サンサンブル・ラボ」📚|📚http://ocw.senzoku.ac.jp/itu/h24/H24_Jazz_EnsambleLab_sato/Jazz_EnsambleLab_sato.xml
+授業：宮木朝子「音響空間エレクトロニクス」📚|📚http://ocw.senzoku.ac.jp/itu/h23/acous/acous.xml
+授業：小松久明「サウンドエンジニアリング基礎理論」📚|📚http://ocw.senzoku.ac.jp/itu/h23/s-eng/seng.xml
+授業：山田武彦「楽曲分析研究 －後期－」📚|📚http://ocw.senzoku.ac.jp/itu/h23/analysis_mu/analysis_mu_kouki.xml
+授業：捻金正雄「日本歌曲研究Ⅱ」📚|📚http://ocw.senzoku.ac.jp/itu/h24/H24_NihonKakyoku_nejigane/NihonKakyoku_nejigane.xml
+授業：森重行敏「現代作品研究 —前期—」📚|📚http://ocw.senzoku.ac.jp/itu/h23/analysis_gmu/analysis_gmu_zenki.xml
+授業：森重行敏「現代作品研究 —後期—」📚|📚http://ocw.senzoku.ac.jp/itu/h23/analysis_gmu/analysis_gmu_kouki.xml

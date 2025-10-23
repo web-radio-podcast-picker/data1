@@ -1,0 +1,121 @@
+[KBS] 다큐멘터리 역사를 찾아서📚|📚https://api.kbs.co.kr/mediafactory/v1/podcast/rss/R2010-0090-history
+[SMN] N뉴스 Market📚|📚http://pod.ssenhosting.com/rss/leespss/worldtopic.xml
+[경향신문]팟캐스트📚|📚http://pod.ssenhosting.com/rss/twineye.xml
+[종영]tbs 주말아침 박혜진입니다📚|📚http://pod.ssenhosting.com/rss/tbsadm/weekendmo.xml
+[헌법재판연구원]알기 쉬운 헌법 팟캐스트📚|📚http://pod.ssenhosting.com/rss/ccourt/ccourt.xml
+1990s : 스무고백 시즌3 [ADBC TV]📚|📚http://pod.ssenhosting.com/rss/ungpanssip/1990.xml
+20분 인문학📚|📚http://pod.ssenhosting.com/rss/namu7802/nemo.xml
+416의 목소리📚|📚http://pod.ssenhosting.com/rss/416memory/416voice.xml
+DANDI RADIO - 귀로 듣는 온갖가지 진주 문화📚|📚http://pod.ssenhosting.com/rss/jinjudandi/dandiradio.xml
+Face the Music📚|📚https://api.podty.me/api/v1/share/cast/898643a028713ab551e9ff8431ef6ac359a37e9d402d562fde65a7e478841b2a/181592
+LezWiki📚|📚http://pod.ssenhosting.com/rss/lezwiki/lezwiki.xml
+MBC 라디오 다큐멘터리 드라마 한국경제 오디세이 (종영)📚|📚http://minicast.imbc.com/PodCast/pod.aspx?code=1003525100000100000
+MBC 라디오 대한민국 임시정부수립 100주년 특별기획 님 찾아가는 길 (종영)📚|📚http://minicast.imbc.com/PodCast/pod.aspx?code=1004311100000100000
+Me Complase Amarte📚|📚https://anchor.fm/s/33fea0b4/podcast/rss
+MSG토론📚|📚http://pod.ssenhosting.com/rss/morch6184/msgthoron.xml
+O tvN어쩌다어른X인문학살롱📚|📚http://pod.ssenhosting.com/rss/secreader2/secreader2.xml
+Pouring Words into Little Ears 인문학적인 아이로 키우기📚|📚https://feeds.sounder.fm/2203/rss.xml
+Random Topic📚|📚https://anchor.fm/s/212f4a88/podcast/rss
+SBS 골라듣는 뉴스룸 상담소📚|📚http://pod.ssenhosting.com/rss/sbsnews/pbchannel_29313.xml
+Steve yang📚|📚https://anchor.fm/s/28ac32a8/podcast/rss
+Stray Kids ;📚|📚https://rss.castbox.fm/everest/972995134e5b401382cdd23ed663c51a.xml
+Stray Kids Cover📚|📚https://anchor.fm/s/1143a678/podcast/rss
+tbs  이슈파이터📚|📚http://pod.ssenhosting.com/rss/tbstv/pbchannel_28520.xml
+TBS FM <좋은사람들 송정애입니다>📚|📚http://pod.ssenhosting.com/rss/tbsadm/goodpeople.xml
+tbs 가슴에 담아온 작은 목소리📚|📚http://pod.ssenhosting.com/rss/tbsadm/smallvoice.xml
+감전녀-감성을 전하는 여자📚|📚http://pod.ssenhosting.com/rss/concent/elecgirl.xml
+강사설쩐 - 쓰레기 강사들의 진짜 이야기📚|📚https://feeds.feedburner.com/ssenhosting/ikUy
+고려 왕비열전📚|📚http://pod.ssenhosting.com/rss/zunggug/zunggug.xml
+광명양반📚|📚http://pod.ssenhosting.com/rss/gmyb/gmyb.xml
+교양인 매뉴얼📚|📚http://pod.ssenhosting.com/rss/refinement/manual.xml
+교양톡톡: 재밌는 교양 지식과 상식 이야기📚|📚http://api.podty.me/api/v1/share/cast/1ae3a43ccf531ef8891c0c8a4c2b30cab8cca859f2c40143c31b27f8f609a449/183720
+교재영화_교과서에 나오는 재미없는 영화이야기📚|📚http://pod.ssenhosting.com/rss/yiban21/moviestroy.xml
+국미연 POST📚|📚http://pod.ssenhosting.com/rss/rovinpark/rovinpark.xml
+그것은 알고싶다📚|📚http://pod.ssenhosting.com/rss/tlaaudgus/audio.xml
+그래, 나는 무당이다 !📚|📚http://pod.ssenhosting.com/rss/bakpil.xml
+기냥 싱가포르📚|📚http://pod.ssenhosting.com/rss/honey90.xml
+기독교가 낯선 당신께📚|📚http://api.podty.me/api/v1/share/cast/cd2e9a69e58e2f3a8ba6a91d0aa9e6df14ddf7d461e7be20684f8878f94384f5/202676
+기부스 - 정찬우X션의 기부 팟캐스트📚|📚http://pod.ssenhosting.com/rss/giboos/giboos1.xml
+김어준의 파파이스(Papa is)📚|📚https://feeds.feedburner.com/papaIs
+김용민 브리핑📚|📚https://feeds.feedburner.com/kimym
+김용민의 역사브리핑📚|📚http://pod.ssenhosting.com/rss/geesik/historykim.xml
+나는 꼰대다📚|📚http://pod.ssenhosting.com/rss/adultunion/ggondai.xml
+나는 친노다📚|📚http://pod.ssenhosting.com/rss/skyfund71.xml
+난장토크이판사판📚|📚http://pod.ssenhosting.com/rss/bookcoach/2pan4pan.xml
+네남자의 은밀한 부동산📚|📚http://pod.ssenhosting.com/rss/realtytera/realtytera.xml
+노들방송📚|📚http://pod.ssenhosting.com/rss/nodl/nodeul.xml
+뉴스펀딩_애국소년단📚|📚http://pod.ssenhosting.com/rss/newsfund/patriot.xml
+다짜고짜 미국 문제 연구소📚|📚http://pod.ssenhosting.com/rss/damiso/kimnpark.xml
+달마시안의 『사기 세가』 읽기📚|📚http://pod.ssenhosting.com/rss/jsm1423/sagisega.xml
+달마시안의 『사기 열전』 읽기📚|📚http://pod.ssenhosting.com/rss/jsm1423/sagi.xml
+도서관 '길 위의 인문학'📚|📚http://pod.ssenhosting.com/rss/purme/libroad.xml
+듀나미스📚|📚https://api.podty.me/api/v1/share/cast/8bd84b8eae9cb2f00ee0b1470dde3949e6efbc6765d4d2e1cf6c3d69363fa90b/184642
+듣헬구 [듣보잡의 헬조선 구하기]📚|📚http://pod.ssenhosting.com/rss/ibdorg.xml
+들리는 역사 여행📚|📚http://pod.ssenhosting.com/rss/akula417/akula417.xml
+레죠(lejo)📚|📚http://pod.ssenhosting.com/rss/lejo/2016.xml
+마고할미로부터 7만년📚|📚http://pod.ssenhosting.com/rss/hanmunhwa/hanmunhwa.xml
+마리텔형사 김복준의 사건 뒷이야기📚|📚http://pod.ssenhosting.com/rss/maritell04/maritell04.xml
+마을에서놀자📚|📚http://pod.ssenhosting.com/rss/bodugy/maeulnet.xml
+만곡쌤의 EDM CAFE📚|📚http://pod.ssenhosting.com/rss/edm0901/edmcafe.xml
+맘마이스📚|📚https://feeds.feedburner.com/ssenhosting/bdta
+미스테리 사건파일📚|📚http://feeds.feedburner.com/mysteryfile
+바람의소리 라디오방송📚|📚http://pod.ssenhosting.com/rss/baramssori.xml
+밥 한번 먹자 -시즌3-📚|📚http://pod.ssenhosting.com/rss/bab3/bab3.xml
+별소리 청소년 인터넷 라디오 방송국📚|📚http://pod.ssenhosting.com/rss/qufthfl.xml
+북끄북끄📚|📚http://pod.ssenhosting.com/rss/jamobook/bookubooku.xml
+북치기박치기님의 팟캐스트입니다.📚|📚http://pod.ssenhosting.com/rss/bukchiki13/bukchiki13.xml
+비상사태 - 미스테리 전담반📚|📚http://pod.ssenhosting.com/rss/emergency.xml
+빅브라더들📚|📚http://pod.ssenhosting.com/rss/bigbrother/bigbrother.xml
+사사건건 시즌 3[문용기의 역사 줍기]📚|📚http://api.podty.me/api/v1/share/cast/5db46b90dee89301df877b6ee87f4b204527bd55f43c236d93b2770aff41f10d/175531
+사인방(사진 인문학 방송)📚|📚http://pod.ssenhosting.com/rss/cannonfort/sainbang.xml
+산산절절📚|📚http://pod.ssenhosting.com/rss/airunique/sansan.xml
+산책📚|📚http://pod.ssenhosting.com/rss/happyitour/happyitour.xml
+산타의 이야기보따리📚|📚http://pod.ssenhosting.com/rss/ms1227/wemakesanta.xml
+생각은 기술이다📚|📚http://pod.ssenhosting.com/rss/smilelee33/meta2013.xml
+서기석의 대한민국 시대정신📚|📚http://pod.ssenhosting.com/rss/dante05/dante05.xml
+세모역사📚|📚http://pod.ssenhosting.com/rss/siganguzo/siganguzo.xml
+세월호 304 잊지 않을게📚|📚http://pod.ssenhosting.com/rss/nochimmuk/0416.xml
+수다맨들📚|📚https://feeds.feedburner.com/ssenhostingDgJC
+숨겨진 한국의 역사들📚|📚https://rss.castbox.fm/everest/390ff7628c7e4ffab8151499b9d1e180.xml
+신희권의 한국불교 지금여기입니다📚|📚http://pod.ssenhosting.com/rss/shinhk0907/nownhere.xml
+아그레아블 독서모임📚|📚http://pod.ssenhosting.com/rss/yim1990/agreable.xml
+아들과 함께 하는 독서 까미노📚|📚http://pod.ssenhosting.com/rss/smd630/peregrino.xml
+아틀란타 연합 장로교회 말씀 강해📚|📚http://pod.ssenhosting.com/rss/byonghoony/byonghoony.xml
+여행가는 날 ( Travel Day )📚|📚http://pod.ssenhosting.com/rss/zzangh2/travelday.xml
+역발상(역사를 발견하고 미래를 상상하라)시즌1📚|📚https://api.podty.me/api/v1/share/cast/d6ed2e60b894b74dbca17eedc520367c5550d87787d0fbc7fc2ff93b765941d9/179432
+역사라듸오 그날📚|📚http://pod.ssenhosting.com/rss/geul/history500.xml
+연남책빵📚|📚https://feeds.feedburner.com/humandbs
+연애인 이재목의 '연애심리까'📚|📚http://pod.ssenhosting.com/rss/bummedia.xml
+영어유감📚|📚http://pod.ssenhosting.com/rss/skdlrlgjs/skdlrlgjs.xml
+영화는 2남2녀📚|📚http://pod.ssenhosting.com/rss/ddpddpzzz/2men2women.xml
+온천동 스토리텔링📚|📚http://pod.ssenhosting.com/rss/onwoman/onwoman.xml
+올어바웃아프리카📚|📚http://pod.ssenhosting.com/rss/leprojet/aaafrica.xml
+우주인의 페이퍼스톤📚|📚http://pod.ssenhosting.com/rss/oojuin/papsers.xml
+음마색귀📚|📚http://pod.ssenhosting.com/rss/svocal84/umma.xml
+의식의흐름📚|📚http://api.podty.me/api/v1/share/cast/bc8143a711eae89313187e0293b883260969fda5f9c4f5b3492fde9ac5ffc672/192554
+이동엽의 신토크박스📚|📚http://pod.ssenhosting.com/rss/factoryx/newtalkbox.xml
+이수영의 12시에 만납시다📚|📚http://cbspodcast.com/podcast/diary/diary.xml
+이희주의 분홍담소 : 책 읽는 담소📚|📚https://feeds.feedburner.com/talking_judy
+잘 알지도 못하면서📚|📚http://pod.ssenhosting.com/rss/ronaldo01/jalalji.xml
+잡식가를 위한 수다📚|📚http://pod.ssenhosting.com/rss/myoungstar/japsuda.xml
+장르대백과📚|📚http://api.podty.me/api/v1/share/cast/82ac66e4f1c56c8e3b1e150139973456d3c5b5467a9e8bff451bf39b618ef91f/188978
+정선태의 목요 고전강좌📚|📚http://pod.ssenhosting.com/rss/geesik/jstgojun.xml
+정치신세계(삭제채널)📚|📚https://feeds.feedburner.com/ssenhosting/YbpB
+조선연예인 비사(祕史)📚|📚http://pod.ssenhosting.com/rss/leespss/b4b4.xml
+참소리📚|📚http://pod.ssenhosting.com/rss/colortv/chamsori.xml
+청소년 삼국지 - 주식회사 BDCS📚|📚https://api.podty.me/api/v1/share/cast/f475cda5ed1b69c42a98e4283365eae4e0ebb9d9a80b6c5a9bf7ca9f180efc34/188592
+청소년을 위한 핫상식📚|📚http://pod.ssenhosting.com/rss/ruby3575/sin625.xml
+최&박의 왈가왈부📚|📚http://pod.ssenhosting.com/rss/eodus211/cnplaw.xml
+퇴근후 역사의 채널📚|📚https://rss.castbox.fm/everest/5409b9bac41d47a690780401d0f2fbe9.xml
+티파니516📚|📚http://pod.ssenhosting.com/rss/tiffany516/a123.xml
+팟캐스트 제삼시대📚|📚http://pod.ssenhosting.com/rss/yminjung/3era.xml
+평론자들📚|📚http://pod.ssenhosting.com/rss/castcast00/ordinarypeople.xml
+표창원 박주민의  `신사와 거지`📚|📚http://pod.ssenhosting.com/rss/joomincent/gnh2017.xml
+필통📚|📚http://pod.ssenhosting.com/rss/unikorea/unikorea.xml
+한강하구 김포통신📚|📚http://pod.ssenhosting.com/rss/nsky88/gimpo.xml
+한국정신장애연대 KAMI📚|📚http://pod.ssenhosting.com/rss/kami/kami.xml
+한문화사업총단UCRGB📚|📚http://pod.ssenhosting.com/rss/hanmunhwa.xml
+호락호락 : 즐거운 인문 토론📚|📚https://api.podty.me/api/v1/share/cast/5c205d8593447148de1c80306353c0b45761dcf59d9eed61ea4f0e05b6951682/188074
+홍익문화기획UCRGB📚|📚http://pod.ssenhosting.com/rss/hanmunhwa/ucrgb72394.xml
+화요지식살롱📚|📚https://api.podty.me/api/v1/share/cast/a7f5fb94872ac44167b46adf75a46d9f27189516459ee1f6c3758cae3b642dfd/190499
+황양이📚|📚http://api.podty.me/api/v1/share/cast/dcec5f6ff4a1a32c8b919e5a5642836d998065d97ab7c14a2591f809369a7dbe/187713

@@ -1,0 +1,13 @@
+Buvette - De Fussballpodcast📚|📚https://buvette.podigee.io/feed/mp3
+Drëtt Hallschent - De Sport-Talk📚|📚https://www.rtl.lu/podcast/feed/drett-hallschent-lb.xml
+Goal - De Football zu Lëtzebuerg📚|📚https://www.rtl.lu/podcast/feed/goal-de-football-zu-letzebuerg-lb.xml
+Goal - De Football zu Lëtzebuerg📚|📚https://www.rtl.lu/podcast/feed/tele_goal_large_fb.xml
+Rebound (TV)📚|📚https://www.rtl.lu/podcast/feed/rebound-lb.xml
+Rebound (TV)📚|📚https://www.rtl.lu/podcast/feed/tele_rebound.xml
+RTL - COSL Magasinn📚|📚https://www.rtl.lu/podcast/feed/team-letzebuerg-magazin-lb.xml
+RTL - FLF-Magazin📚|📚https://www.rtl.lu/podcast/feed/flf-magazin-lb.xml
+RTL - FLSE-Magasinn📚|📚https://www.rtl.lu/podcast/feed/flse-magazin-lb.xml
+RTL - Rebound📚|📚https://www.rtl.lu/podcast/feed/rebound-radio-lb.xml
+RTL - Spin📚|📚https://www.rtl.lu/podcast/feed/spin-lb.xml
+RTL - Sprint📚|📚https://www.rtl.lu/podcast/feed/sprint-lb.xml
+Touchdown De Lëtzebuergeschen American Football talk📚|📚https://anchor.fm/s/31f596c4/podcast/rss

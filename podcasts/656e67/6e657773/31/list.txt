@@ -1,0 +1,4 @@
+1📚|📚https://anchor.fm/s/31b9cc84/podcast/rss
+3.1📚|📚https://afr.net/api/v2/podcast/podcastsbyidrss/?id=19450
+51📚|📚https://media.rss.com/football51pod/feed.xml
+9/11📚|📚https://anchor.fm/s/34d99444/podcast/rss

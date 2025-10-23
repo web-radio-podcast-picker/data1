@@ -1,0 +1,4 @@
+[종영] 김선근의 럭키세븐📚|📚https://rss.art19.com/R2019-0056-lucky7
+[종영] 김태훈의 시대음감📚|📚https://api.kbs.co.kr/mediafactory/v1/podcast/rss/R2019-0048-age
+종교 모두 까기📚|📚https://api.podty.me/api/v1/share/cast/dd7d3a98942efc4ed998eb1d17bbcf23e9aa3d0fabd74298728236a3782cc4e6/186161
+종탑방 아재들📚|📚https://api.podty.me/api/v1/share/cast/217e99161736fc5f45500b1a21cd1081d5cb33c0d8544a7dbdc5d73f1e643f38/198249

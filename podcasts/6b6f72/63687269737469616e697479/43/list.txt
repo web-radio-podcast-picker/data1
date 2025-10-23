@@ -1,0 +1,19 @@
+[CGNTV 세미나] 바이블스터디📚|📚http://pod1.cgntv.net/podcast/AS010B/AS010B_biblestudy.xml
+[CGNTV 세미나] 상담📚|📚http://pod1.cgntv.net/podcast/AS008C/AS008C_consultation.xml
+[CGNTV 세미나] 선교📚|📚http://pod1.cgntv.net/podcast/AS009M/AS009M_mission.xml
+[CGNTV 세미나] 이애실 사모의 성경일독학교📚|📚http://pod1.cgntv.net/podcast/AS002R/AS002R_readingthebible.xml
+[CGNTV 세미나] 자녀양육📚|📚http://pod1.cgntv.net/podcast/AS007H/AS007H_homeedu.xml
+[CGNTV 세미나] 지식📚|📚http://pod1.cgntv.net/podcast/AS006K/AS006K_knowledge.xml
+[CGNTV 세미나]90일 성경일독 통큰통독 - 황사라📚|📚http://pod1.cgntv.net/podcast/AS0049/AS0049_90daybible.xml
+[CGNTV 세미나]성경의 맥을 잡아라 - 문봉주 목사📚|📚http://pod1.cgntv.net/podcast/AS003T/AS003T_threadingthebible.xml
+[C채널] 오직 주만이📚|📚http://api.podty.me/api/v1/share/cast/70b3bb0808b02a78c1dff7d87ce1319624ae8396a0caf2210d47aadd6a5d9c8c/192790
+CBS 광장📚|📚http://cbspodcast.com/podcast/cbs_square/cbs_square.xml
+CBSN📚|📚http://pod.ssenhosting.com/rss/cbsn/cbsnewyork.xml
+CCM - RUTCTV📚|📚http://m.rutc.tv/podcast/podcast.php?category=RA100103
+CFC Sunday Sermons📚|📚https://anchor.fm/s/1aee3f58/podcast/rss
+CGNTV 라디오 드라마📚|📚http://pod1.cgntv.net/podcast/AC001R/AC001R_radiodrama.xml
+CGNTV맞춤특강 나침반📚|📚http://pod1.cgntv.net/podcast/VSp001C/VSp001C_compass.xml
+Christian magtan duunii radio WOWCCM📚|📚http://wowccm.net/mn_wowccm/podcast/pod_wowccm.xml
+CoolCCMGoodCCM 시즌2📚|📚http://pod.ssenhosting.com/rss/dreamj/dreamj.xml
+CTSY 믿음의 책방📚|📚http://pod.ssenhosting.com/rss/aaron99da/parkaaron.xml
+CTS기독교TV 순수복음방송📚|📚http://pod.ssenhosting.com/rss/ctstv/ctstv.xml

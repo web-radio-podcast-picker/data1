@@ -1,0 +1,10 @@
+뉴스 TOP 10📚|📚https://static.api.imtpod.com/content/external/episode/rss/CA1_WPG2130137D?platform=apple
+뉴스 퍼레이드📚|📚https://static.api.imtpod.com/content/external/episode/rss/CS1_C201700070?platform=apple
+뉴스1번지📚|📚https://static.api.imtpod.com/content/external/episode/rss/Y01_D201200025?platform=apple
+뉴스A📚|📚https://static.api.imtpod.com/content/external/episode/rss/CA1_WPG2130032D?platform=apple
+뉴스메이커📚|📚https://static.api.imtpod.com/content/external/episode/rss/Y01_D201600009?platform=apple
+뉴스워치📚|📚https://static.api.imtpod.com/content/external/episode/rss/Y01_D201700004?platform=apple
+뉴스타파 NEWSTAPA📚|📚https://download.newstapa.org/api/podcast.xml
+뉴스펀딩_애국소년단📚|📚http://pod.ssenhosting.com/rss/newsfund/patriot.xml
+뉴스포커스📚|📚https://static.api.imtpod.com/content/external/episode/rss/Y01_D201500031?platform=apple
+뉴포커스 3분 북한📚|📚http://feeds.feedburner.com/znoky

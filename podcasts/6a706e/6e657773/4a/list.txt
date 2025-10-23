@@ -1,0 +1,5 @@
+Jasmine tea📚|📚https://anchor.fm/s/227ac6b0/podcast/rss
+JIJI English News-時事通信英語ニュース-📚|📚https://ad.robotstart.jp/api/v1/feeds/368f048f/get-feeds/podcast
+JIJI news for English Learners-時事通信英語学習ニュース‐📚|📚https://ad.robotstart.jp/api/v1/feeds/36a00495/get-feeds/podcast
+JIJI.COMニュースアクセスランキング📚|📚https://ad.robotstart.jp/api/v1/feeds/354f0481/get-feeds/podcast
+Johoku Audio News📚|📚https://anchor.fm/s/2f412c90/podcast/rss

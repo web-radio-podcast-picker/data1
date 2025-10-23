@@ -1,0 +1,2 @@
+JJ만화방_ADBC 만화애니정보라디오📚|📚https://api.podty.me/api/v1/share/cast/c61312542907abcdbe8cda44f7fc3d6ad0904151814196d288f61b2bf76e3e72/179762
+JTBC 라디오가 없어서📚|📚https://svc.jtbc.co.kr/API/Tv/Data/Rss/jtbc_bcuznoradio_aod_tpod.xml

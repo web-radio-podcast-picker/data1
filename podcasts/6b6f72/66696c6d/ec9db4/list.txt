@@ -1,0 +1,7 @@
+이것저것 실험실📚|📚http://pod.ssenhosting.com/rss/soyounglab/s228.xml
+이규연의 스포트라이트📚|📚http://svc.jtbc.joins.com/api/News/data/rss/JTBC_jtbcspotlight_AOD_Podcast.xml
+이능액션 클로저스의 팟캐스트📚|📚http://pod.ssenhosting.com/rss/closers/closers.xml
+이런영화📚|📚https://api.podty.me/api/v1/share/cast/610f1850d80ceaaf73f90eea54cf5c48d1a18277331eaa673baa4dacb34a2c6f/181764
+이문동 아재들의 SF 이야기📚|📚https://api.podty.me/api/v1/share/cast/d13ed23930ff07790a3cfb986ef41b3887de2e1e93e70b0e9be9f1ed18be2cc4/174754
+이빨sowhat 3인의 시선📚|📚http://pod.ssenhosting.com/rss/bingok05/28sowhatm.xml
+이지원PD의 뮤지컬쇼쇼쇼 -여행편📚|📚http://pod.ssenhosting.com/rss/ez1pd/ez1pd.xml

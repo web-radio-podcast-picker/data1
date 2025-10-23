@@ -1,0 +1,7 @@
+한국배리어프리방송국의 팟캐스트📚|📚http://pod.ssenhosting.com/rss/kbbs2014/kbbs2014.xml
+한국정신장애연대 KAMI📚|📚http://pod.ssenhosting.com/rss/kami/kami.xml
+한작 박변의 프로 민원인📚|📚http://old.ddanzi.com/appstream/propet.xml
+한작 박변의 프로민원인📚|📚https://api.podty.me/api/v1/share/cast/e33360a3395c11a112ea81c8619ed466422f57372989fbda5e087b78b21987b6/183172
+한재무의 쇼미더머니📚|📚http://pod.ssenhosting.com/rss/showmoney/showmoney.xml
+한중녹 (한국의 중심에서 녹음하다)📚|📚https://api.podty.me/api/v1/share/cast/45f85055e75a06093477debd813bf9976330b4ea9fa1bb437547806dd9721ce8/174832
+한풀이 토크쇼 들어보든지📚|📚http://pod.ssenhosting.com/rss/cromchan/cromchan.xml

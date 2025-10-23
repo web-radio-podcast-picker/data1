@@ -1,0 +1,9 @@
+iBibitz OnAir[Apple,スマートフォン,PC関連のネットラジオ]📚|📚http://ibiitzr-radio.seesaa.net/index20.rdf
+IDEAS FOR GOOD📚|📚https://ad.robotstart.jp/api/v1/feeds/379a04a3/get-feeds/podcast
+Imam Maliki's show📚|📚https://www.spreaker.com/show/3293415/episodes/feed
+Infinite-Wish 無限の願望Project📚|📚http://infinite-wish2006.seesaa.net/index20.rdf
+ITmedia Mobile📚|📚https://ad.robotstart.jp/api/v1/feeds/3753049d/get-feeds/podcast
+ITmedia NEWS📚|📚https://ad.robotstart.jp/api/v1/feeds/36040483/get-feeds/podcast
+ITmedia PC USER📚|📚https://ad.robotstart.jp/api/v1/feeds/35fc0482/get-feeds/podcast
+ITmedia ビジネスオンライン📚|📚https://ad.robotstart.jp/api/v1/feeds/36240489/get-feeds/podcast
+ITってなんだ？躊躇わないことだ！📚|📚https://fondo.koelab.net/feed/podcast/

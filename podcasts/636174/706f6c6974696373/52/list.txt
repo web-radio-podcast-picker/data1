@@ -1,0 +1,31 @@
+RAC1ncentrat - L'hora a hora📚|📚https://api.audioteca.rac1.cat/rss/rac1ncentrat
+Ràdio Calvià📚|📚https://www.ivoox.com/feed_fg_f1284885_filtro_1.xml
+Ràdio Ciutat de Tarragona - rctgn.cat📚|📚https://feeds.feedburner.com/rctgn
+Ràdio Compromís📚|📚https://www.ivoox.com/feed_fg_f1265898_filtro_1.xml
+Ràdio Despí📚|📚https://www.ivoox.com/feed_fg_f182143_filtro_1.xml
+Ràdio Esparreguera📚|📚https://www.ivoox.com/feed_fg_f1271473_filtro_1.xml
+Ràdio Jove Hiperbòlica📚|📚https://www.ivoox.com/feed_fg_f1658405_filtro_1.xml
+Ràdio Les Borges 107.1FM📚|📚http://www.radiolesborges.cat/escoltans/arxiu/itunes.xml
+Ràdio Molins de Rei📚|📚https://www.ivoox.com/feed_fg_f1759943_filtro_1.xml
+Ràdio Sant Fruitós (varis)📚|📚https://www.ivoox.com/_fg_f165889_filtro_1.xml
+Ràdio SPUNI - Notícies📚|📚https://www.ivoox.com/podcast-radio-spuni-noticies_fg_f1586778_filtro_1.xml
+Ràdio Terra📚|📚https://www.ivoox.com/feed_fg_f1132566_filtro_1.xml
+Radio Valentia Compromis📚|📚https://www.ivoox.com/feed_fg_f1569814_filtro_1.xml
+Rappressió📚|📚https://www.ivoox.com/feed_fg_f1663037_filtro_1.xml
+RealPolitik Podcast📚|📚https://www.ivoox.com/feed_fg_f1667861_filtro_1.xml
+Rebel·lió 3XL📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/2/7/podseccio2672.xml
+Remata-ho, Macià📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/0/5/podseccio3650.xml
+Reportatges amb plus de la Mariola Dinarès📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/9/4/podseccio3649.xml
+Respon el senyor alcalde📚|📚https://www.ivoox.com/feed_fg_f1271970_filtro_1.xml
+Resum de l'any: cinema📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/0/7/podprograma1770.xml
+Resum de l'any: esports📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/9/6/podprograma1769.xml
+Resum de l'any: informatius📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/7/6/podprograma1767.xml
+Resum de l'any: música clàssica📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/2/7/podprograma1772.xml
+Resum de l'any: música📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/6/6/podprograma1766.xml
+Resum de l'any: sèries📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/8/6/podprograma1768.xml
+Reunions Urbanístiques Abril-Maig 2018📚|📚https://www.ivoox.com/_fg_f1576563_filtro_1.xml
+Robert Casajuana Alujas📚|📚https://www.ivoox.com/feed_fg_f1623113_filtro_1.xml
+Roda d'Amics📚|📚https://www.cugat.cat/podcast/rodadamics.xml
+Ronda Política📚|📚https://www.ivoox.com/feed_fg_f1417128_filtro_1.xml
+Ròtova📚|📚https://www.ivoox.com/feed_fg_f119958_filtro_1.xml
+Ruscalleda a la carta📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/0/0/podseccio2100.xml

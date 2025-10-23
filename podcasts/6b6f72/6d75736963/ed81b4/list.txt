@@ -1,0 +1,3 @@
+클래식매거진📚|📚http://api.podty.me/api/v1/share/cast/33a0246854538d855547e16f656ef8e59aee5296ee4054ab33a7d59e7e7cf930/174404
+클래식을 까다📚|📚https://api.podty.me/api/v1/share/cast/3fe642d29a2e1fee43d98abc70ba02f3108cce184866ac47dad9513bcafcc243/178285
+클럽음악방송EDM.홍대.강남📚|📚https://api.podty.me/api/v1/share/cast/cee7ca38799532e585131101d86ea8c5e14b8b48cdb6adaff9c3789142e7c794/174839

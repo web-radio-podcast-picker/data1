@@ -1,0 +1,8 @@
+SBS 골라듣는 뉴스룸📚|📚https://news.sbs.co.kr/news/podcastRss.do
+SBS 뉴스브리핑(꼭지)📚|📚https://news.sbs.co.kr/news/VoicePodcast.do?prog_id=1000000801
+SBS 아나콘다 - 경제읽기📚|📚http://wizard2.sbs.co.kr/w3/podcast/V2000010599.xml
+SBS뉴스 브리핑📚|📚https://news.sbs.co.kr/news/VoicePodcast.do?prog_id=1000000701
+SFR iTV (Podcast)📚|📚http://pod.ssenhosting.com/rss/jsk552/sfrtalk.xml
+SplashEnglish📚|📚https://feed.pod.co/splashenglish
+Stray Kids📚|📚https://anchor.fm/s/2dae5dd0/podcast/rss
+STUDIO ZERO📚|📚http://pod.ssenhosting.com/rss/studiozero/zero.xml

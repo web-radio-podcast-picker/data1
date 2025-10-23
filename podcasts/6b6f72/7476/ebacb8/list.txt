@@ -1,0 +1,6 @@
+문옥씨네📚|📚http://pod.ssenhosting.com/rss/kimjongu/munokcine.xml
+문학소년단📚|📚https://api.podty.me/api/v1/share/cast/398544b8956940d8aaa77aac5bdf3c3f7305367c13376cbd36dae6908ef7b2ee/187660
+문화뉴스님의 팟캐스트입니다.📚|📚http://pod.ssenhosting.com/rss/munhwanews/munhwanews.xml
+문화담소📚|📚https://api.podty.me/api/v1/share/cast/520db29acc52ffa2c7ddaff06e85d80e0e85fb2b56cb6cf97e95c24d33d3b0fd/180891
+문화수다-7번방📚|📚https://api.podty.me/api/v1/share/cast/7a1677d371bc3e1725bbde798a8e16d650ce3c7a6827e334ec56be779bedbd6a/190138
+문화잡식공룡 티라노📚|📚http://pod.ssenhosting.com/rss/dpfks91/tyranno.xml

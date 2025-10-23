@@ -1,0 +1,2 @@
+고양이살롱📚|📚https://api.podty.me/api/v1/share/cast/ec4b1d79f74128f3f127ab2a4055cfa96bb0c266f561320d844234fa62388057/178529
+고전적 하루, 목요일 18시 00분📚|📚http://svc.jtbc.joins.com/api/Tv/data/rss/JTBC_jtbcclassictoday_AOD_Podcast.xml

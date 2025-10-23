@@ -1,0 +1,6 @@
+책과 생각📚|📚https://api.podty.me/api/v1/share/cast/6ec247229f3f6399389487e352a5baf3bcc21d2c041907e62cf489b4594c3596/190099
+책알못 (책, 잘 알지도 못하면서)📚|📚http://pod.ssenhosting.com/rss/dir2g/bookrmot.xml
+책에바라📚|📚http://pod.ssenhosting.com/rss/cherrypd/radioplay.xml
+책을 여는 시간📚|📚http://api.podty.me/api/v1/share/cast/e0694a3cbdeb6123bebb121ef92c7d0b2e8f9b2f9b8ef550f9d48ef51a4b910a/172105
+책읽는사자 독서멘토링📚|📚https://api.podty.me/api/v1/share/cast/100b52c75b0cdee6b9b4ce9581eca4130c8ca609b9ce0b975283e64419e95478/188770
+책읽어주는아내📚|📚https://api.podty.me/api/v1/share/cast/967071bd4ca38c0488a921100545d5b8698f2644983ab0531abe2ce23f832953/179048

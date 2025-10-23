@@ -1,0 +1,5 @@
+마블영화뉴스📚|📚http://s3.ap-northeast-2.amazonaws.com/marvelmovienews-kr/marvelmovienews-kr.xml
+마블영화뉴스📚|📚https://rss.castbox.fm/everest/660876bfc8b14a75bbbfe39e78911ace.xml
+마음만은 영평가📚|📚http://pod.ssenhosting.com/rss/woo1383/tlghdwkd.xml
+마포FM 먼데이청춘📚|📚http://pod.ssenhosting.com/rss/mondaynine/mondaynine.xml
+마포FM 뮤직홍 (금) 겨울사라다-Winter Salad📚|📚http://pod.ssenhosting.com/rss/sarahband/0311.xml

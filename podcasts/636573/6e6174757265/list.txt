@@ -1,0 +1,9 @@
+Český rozhlas - Příroda📚|📚https://api.mujrozhlas.cz/rss/topic/472f8b57-122d-44fa-a86c-7c77b51c7be1.rss
+domorodý podcast📚|📚https://anchor.fm/s/1dbf1d24/podcast/rss
+Klimatický podcast CI2📚|📚https://anchor.fm/s/32d23ea8/podcast/rss
+Phytophilia📚|📚https://feeds.transistor.fm/phytophilia
+Podhoubí📚|📚https://api.mujrozhlas.cz/rss/podcast/d30e470a-a07f-389f-9761-1543d9e560fe.rss
+Rybářské podcasty Zachytame.cz📚|📚https://media.rss.com/zachytame/feed.xml
+Safari📚|📚https://api.mujrozhlas.cz/rss/podcast/5695db40-46b5-3eaf-baf9-e2bfbe92962b.rss
+Scaperovo okynko📚|📚https://anchor.fm/s/3691d044/podcast/rss
+Výlety📚|📚https://api.mujrozhlas.cz/rss/podcast/c276b22a-06b4-396b-8ab4-e16fc6fa4991.rss

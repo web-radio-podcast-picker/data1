@@ -1,0 +1,7 @@
+伝統音楽デジタルライブラリー：「太鼓」📚|📚http://ocw.senzoku.ac.jp/itu/h23/trad/taiko/trad_taiko.xml
+伝統音楽デジタルライブラリー：「尺八」📚|📚http://ocw.senzoku.ac.jp/itu/h23/trad/shakuhachi/trad_shakuhachi.xml
+伝統音楽デジタルライブラリー：「津軽三味線」📚|📚http://ocw.senzoku.ac.jp/itu/h23/trad/tugarushamisen/trad_tugarushamisen.xml
+伝統音楽デジタルライブラリー：「琵琶」📚|📚http://ocw.senzoku.ac.jp/itu/h23/trad/biwa/trad_biwa.xml
+伝統音楽デジタルライブラリー：「笛」📚|📚http://ocw.senzoku.ac.jp/itu/h23/trad/hue/trad_hue.xml
+伝統音楽デジタルライブラリー：「箏」📚|📚http://ocw.senzoku.ac.jp/itu/h23/trad/koto/trad_koto.xml
+伝統音楽デジタルライブラリー：「鼓」📚|📚http://ocw.senzoku.ac.jp/itu/h23/trad/tudumi/trad_tudumi.xml

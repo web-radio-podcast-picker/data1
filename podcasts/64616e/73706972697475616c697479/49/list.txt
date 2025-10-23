@@ -1,0 +1,3 @@
+I min lomme ligger en sten📚|📚https://api.dr.dk/podcasts/v1/feeds/i-min-lomme-ligger-en-sten.xml?format=podcast
+ImpactChurch Roskilde📚|📚https://feeds.buzzsprout.com/739964.rss
+Invariata - en luthersk podcast📚|📚http://invariata.dk/feed/podcast/

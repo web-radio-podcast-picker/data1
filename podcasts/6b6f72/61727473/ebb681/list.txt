@@ -1,0 +1,7 @@
+북라디오📚|📚https://api.podty.me/api/v1/share/cast/0e7bc203618118fa42b05807abc3477975222b25a6bd5f9cc286dd69d8f04284/202806
+북북북📚|📚https://anchor.fm/s/2fc30594/podcast/rss
+북이어📚|📚https://api.podty.me/api/v1/share/cast/29e00690c25082faf090f6ca4c644bc85ea59fe502885a6f9071de2a5bd6fc76/178180
+북톡쇼📚|📚https://anchor.fm/s/237e345c/podcast/rss
+북트라이브📚|📚http://pod.ssenhosting.com/rss/alwaysloss/booktribe.xml
+북파인더📚|📚http://pod.ssenhosting.com/rss/handjay/bookfidner.xml
+북파인더📚|📚https://feeds.soundcloud.com/users/soundcloud:users:111770033/sounds.rss

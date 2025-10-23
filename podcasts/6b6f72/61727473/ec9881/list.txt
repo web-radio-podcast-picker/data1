@@ -1,0 +1,9 @@
+영게들의 수다📚|📚http://pod.ssenhosting.com/rss/filmsooda1/filmsooda1.xml
+영공사📚|📚http://pod.ssenhosting.com/rss/cheshire/004cinema.xml
+영상15도📚|📚http://pod.ssenhosting.com/rss/youngsang/15do.xml
+영상해부학📚|📚https://api.podty.me/api/v1/share/cast/d2239d62a0882c35fc13dc76ebf8b9cfc520f27718cea9e5f70e76997763931b/175437
+영어왕📚|📚http://englishwang.com/feed/host_andrew/
+영화 씹어 먹기📚|📚http://pod.ssenhosting.com/rss/digestcine/cine.xml
+영화 알지도 못하면서📚|📚http://pod.ssenhosting.com/rss/gaeun0628/dknowmovie.xml
+영화는 2남2녀📚|📚http://pod.ssenhosting.com/rss/ddpddpzzz/2men2women.xml
+영화백수 (백수들의 영화 뒷담화)📚|📚http://pod.ssenhosting.com/rss/film104/film01.xml

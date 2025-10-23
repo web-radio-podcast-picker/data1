@@ -1,0 +1,8 @@
+号外NET - 吹田📚|📚https://ad.robotstart.jp/api/v1/feeds/36f40499/get-feeds/podcast
+号外NET - 守口・門真📚|📚https://ad.robotstart.jp/api/v1/feeds/3667048b/get-feeds/podcast
+号外NET - 川口市📚|📚https://ad.robotstart.jp/api/v1/feeds/37c904af/get-feeds/podcast
+号外NET - 市原市📚|📚https://ad.robotstart.jp/api/v1/feeds/36cc04a0/get-feeds/podcast
+号外NET - 東大阪📚|📚https://ad.robotstart.jp/api/v1/feeds/36e80496/get-feeds/podcast
+号外NET - 東淀川区📚|📚https://ad.robotstart.jp/api/v1/feeds/35e80486/get-feeds/podcast
+号外NET - 横須賀市📚|📚https://ad.robotstart.jp/api/v1/feeds/362c0491/get-feeds/podcast
+号外NET - 高槻市・島本町📚|📚https://ad.robotstart.jp/api/v1/feeds/3765049a/get-feeds/podcast

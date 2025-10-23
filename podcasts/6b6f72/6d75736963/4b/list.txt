@@ -1,0 +1,7 @@
+[KBS] 이은지의 가요광장📚|📚https://api.kbs.co.kr/mediafactory/v1/podcast/rss/R2019-0077-eunjigayo
+[KBS] 이현우의 음악앨범📚|📚https://api.kbs.co.kr/mediafactory/v1/podcast/rss/R2007-0069-album
+[KBS] 임백천의 백 뮤직📚|📚https://api.kbs.co.kr/mediafactory/v1/podcast/rss/R2020-0190-backmusic
+[KBS] 주현미의 러브레터📚|📚https://api.kbs.co.kr/mediafactory/v1/podcast/rss/R2020-0191-loveletter
+K-Chill (Adventures Beyond K-Pop)📚|📚https://hearthis.at/koreanchill/podcast/
+K-Pop Bonus!📚|📚https://www.spreaker.com/show/4771344/episodes/feed
+K의 즐거운 사생활 (종영)📚|📚http://minicast.imbc.com/PodCast/pod.aspx?code=1002776100000100000

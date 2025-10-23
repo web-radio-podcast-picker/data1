@@ -1,0 +1,6 @@
+Hallpod📚|📚https://pinecast.com/feed/hallpod
+Harmonikanørderne📚|📚https://www.spreaker.com/show/3509988/episodes/feed
+Hemmelige hilsner📚|📚https://www.omnycontent.com/d/playlist/414edbb4-4b91-4960-8650-ad4000dbc027/e939f4a0-8c9e-4e42-a4cd-ad4800e68fe5/e53a7c2a-dd43-4ed0-819d-ad4800e68fee/podcast.rss
+Hip Hop Drømmen📚|📚https://anchor.fm/s/14764094/podcast/rss
+Husk min stemme📚|📚https://feeds.buzzsprout.com/382753.rss
+Hvem er...📚|📚https://api.dr.dk/podcasts/v1/feeds/hvem-er.xml?format=podcast

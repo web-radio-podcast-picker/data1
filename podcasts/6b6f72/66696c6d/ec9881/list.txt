@@ -1,0 +1,23 @@
+[영화] 테이크아웃씨네마-텍씨📚|📚https://api.podty.me/api/v1/share/cast/3befd0bc8dc7d5f11529b7611e23389518b765cb478a24c432c2a600c3685bc4/176283
+영게들의 수다📚|📚http://pod.ssenhosting.com/rss/filmsooda1/filmsooda1.xml
+영공사📚|📚http://pod.ssenhosting.com/rss/cheshire/004cinema.xml
+영망진창 : 문돌이 4인방의 틀려먹은 영화리뷰📚|📚https://api.podty.me/api/v1/share/cast/18f1bbc590accde69b5ebb1c1ae7397116aa86636082641a650ed70dfe0d715f/184852
+영상15도📚|📚http://pod.ssenhosting.com/rss/youngsang/15do.xml
+영상해부학📚|📚https://api.podty.me/api/v1/share/cast/d2239d62a0882c35fc13dc76ebf8b9cfc520f27718cea9e5f70e76997763931b/175437
+영어다이아그램의 팟캐스트 입니다.📚|📚http://pod.ssenhosting.com/rss/ewc8671/ewc8671.xml
+영진단 : 시즌1 관객보정📚|📚https://api.podty.me/api/v1/share/cast/24177c05f9bc9b15d9dc761cf88bf1101aa4779b1199f9627f61328654683353/185500
+영탐정_영화탐구정보 라디오📚|📚https://api.podty.me/api/v1/share/cast/14a78f1a7605fbde3b91fe90339bdbaee33e618f14e61539197d4042e2dbc919/179328
+영화 씹어 먹기📚|📚http://pod.ssenhosting.com/rss/digestcine/cine.xml
+영화 알지도 못하면서📚|📚http://pod.ssenhosting.com/rss/gaeun0628/dknowmovie.xml
+영화 오독📚|📚http://api.podty.me/api/v1/share/cast/4209eb99e2c3285e43b6b816da0b00a63c71b27345ac43c7e0145982fe2e583f/177192
+영화 읽어주는 남자📚|📚https://api.podty.me/api/v1/share/cast/2ca5192809e1f3da2b66be10c417e93eb5195834b7c6f8047b0329457427bb4a/177208
+영화 팟캐스트 영화계契📚|📚https://feeds.soundcloud.com/users/soundcloud:users:129115628/sounds.rss
+영화 팟캐스트 프리즘📚|📚https://api.podty.me/api/v1/share/cast/cb93ff03380ff572c1a5e34361d48e9b957d6ddba066de899ba61a46c032c545/179007
+영화가 나오는 포차 - 영턱스클럽📚|📚https://api.podty.me/api/v1/share/cast/807efbf452413418faab3e45f2203d2e44f1060c5348cc138f525a932f89aad6/176852
+영화공장 배드 테이스트📚|📚https://api.podty.me/api/v1/share/cast/49456cf923364f1e3a400c420af6145fb5b626f8fa26a355385841e70f9c2148/175259
+영화난담 무비갱스터📚|📚http://pod.ssenhosting.com/rss/fxw2/fxw2.xml
+영화는 2남2녀📚|📚http://pod.ssenhosting.com/rss/ddpddpzzz/2men2women.xml
+영화를 이야기하는 시간, 21:12📚|📚http://api.podty.me/api/v1/share/cast/daae890c7fceb90ab17d7f8705187e76715180a72550193001930f3481e10c89/177543
+영화백수 (백수들의 영화 뒷담화)📚|📚http://pod.ssenhosting.com/rss/film104/film01.xml
+영화음악공작소 - Movie Music Story (MMS)📚|📚http://pod.ssenhosting.com/rss/osanc142.xml
+영화의 심리학📚|📚https://feeds.soundcloud.com/users/soundcloud:users:179293106/sounds.rss

@@ -1,0 +1,6 @@
+Face the Music📚|📚https://api.podty.me/api/v1/share/cast/898643a028713ab551e9ff8431ef6ac359a37e9d402d562fde65a7e478841b2a/181592
+FC 하우스📚|📚http://pod.ssenhosting.com/rss/fchousepod/fchouse.xml
+FM 음악도시(종영)📚|📚http://minicast.imbc.com/PodCast/pod.aspx?code=1002600100000100000
+FMzine📚|📚http://wizard2.sbs.co.kr/w3/podcast/V2000008789.xml
+FM데이트 '한편' (종영)📚|📚http://minicast.imbc.com/PodCast/pod.aspx?code=1003404100000100000
+FM영화음악 김세윤입니다📚|📚http://minicast.imbc.com/PodCast/pod.aspx?code=1003725100000100000

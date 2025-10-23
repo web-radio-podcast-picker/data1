@@ -1,0 +1,5 @@
+책느님📚|📚http://pod.ssenhosting.com/rss/bertsummit/bookod0610.xml
+책알못 (책, 잘 알지도 못하면서)📚|📚http://pod.ssenhosting.com/rss/dir2g/bookrmot.xml
+책읽는사자 독서멘토링📚|📚https://api.podty.me/api/v1/share/cast/100b52c75b0cdee6b9b4ce9581eca4130c8ca609b9ce0b975283e64419e95478/188770
+책읽는사자 연애·결혼 멘토링📚|📚https://api.podty.me/api/v1/share/cast/badfae28482523c3e18ece19380a7cb5dc8b9154e918750aa481e7ac30cbbe80/191111
+책잇아웃📚|📚http://wizard2.sbs.co.kr/w3/podcast/V2000009563.xml

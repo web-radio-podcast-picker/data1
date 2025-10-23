@@ -1,0 +1,9 @@
+[SMN] N뉴스 Market📚|📚http://pod.ssenhosting.com/rss/leespss/worldtopic.xml
+[SMN] 게임 직썰쇼 썰겜📚|📚http://pod.ssenhosting.com/rss/leespss/sseolgame.xml
+SBS Korean - SBS 한국어 프로그램📚|📚https://sbs-ondemand.streamguys1.com/sbs-korean/
+SBS 골라듣는 뉴스룸 상담소📚|📚http://pod.ssenhosting.com/rss/sbsnews/pbchannel_29313.xml
+SBS 골라듣는 뉴스룸📚|📚https://news.sbs.co.kr/news/podcastRss.do
+SBS 뉴스브리핑(꼭지)📚|📚https://news.sbs.co.kr/news/VoicePodcast.do?prog_id=1000000801
+SBS뉴스 브리핑📚|📚https://news.sbs.co.kr/news/VoicePodcast.do?prog_id=1000000701
+SBS전망대 - SDF T.I.M.E📚|📚http://wizard2.sbs.co.kr/w3/podcast/V2000001601.xml
+SFR iTV (Podcast)📚|📚http://pod.ssenhosting.com/rss/jsk552/sfrtalk.xml

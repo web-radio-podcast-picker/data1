@@ -1,0 +1,4 @@
+[종영] 김태훈의 프리웨이📚|📚https://api.kbs.co.kr/mediafactory/v1/podcast/rss/R2020-0188-freeway
+[종영] 김혜영과 함께📚|📚https://api.kbs.co.kr/mediafactory/v1/podcast/rss/R2020-0189-withkim
+[종영] 박원의 키스 더 라디오📚|📚https://api.kbs.co.kr/mediafactory/v1/podcast/rss/R2018-0239-kissone
+[종영] 조우종의 FM대행진📚|📚https://api.kbs.co.kr/mediafactory/v1/podcast/rss/I0000-2018

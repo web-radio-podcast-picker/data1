@@ -1,0 +1,7 @@
+스냅📚|📚https://api.podty.me/api/v1/share/cast/3fe8820c7532382d55d66382dedcbff905fea4607b64cfee1d7f7b72f4e2de3b/174276
+스누피 자장가📚|📚https://anchor.fm/s/d87c564/podcast/rss
+스웨덴을 알려주는 여자들📚|📚https://api.podty.me/api/v1/share/cast/3c3c3a467531f0590ead6556143b5f842d4d35b9a1b83975c8a3f99531bc6ccf/201840
+스칼의 잡담 2📚|📚http://pod.ssenhosting.com/rss/bongpeter.xml
+스타다큐 마이웨이📚|📚https://static.api.imtpod.com/content/external/episode/rss/CS1_C201600034?platform=apple
+스토리 트레이닝 핵심요약📚|📚https://api.podty.me/api/v1/share/cast/ff7e8ae188b48e100db987d7a879b2ea88055c516692e767e990c855027136c9/179499
+스토리젠터 채자영의 '마음을 움직이는 이야기'📚|📚http://pod.ssenhosting.com/rss/jayoungo/jayoungo.xml

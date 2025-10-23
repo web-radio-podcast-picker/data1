@@ -1,0 +1,5 @@
+24시간 찬양방송-와우씨씨엠📚|📚http://wowccm.net/podcast/pod_wowccm.xml
+8시 8번출구에서📚|📚http://pod.ssenhosting.com/rss/8qjscnfrn/8thexit.xml
+시 읽어주는 피치공주📚|📚https://api.podty.me/api/v1/share/cast/a09c88af94ccb161544a1dc58f37c8c7fe781dd8b8b4b386e71439fb925fd9b7/172447
+시네마톡톡📚|📚http://pod.ssenhosting.com/rss/sunkken125/cinematalk2.xml
+시팟-시나리오 읽어주는 팟캐스트📚|📚https://api.podty.me/api/v1/share/cast/ff1a818da0dd8efdec33e6750d313fcfea4785d70470a0de949b6a01e250049a/188452

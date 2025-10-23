@@ -1,0 +1,14 @@
+random:stream📚|📚https://randomseed.pl/pod/index.xml
+random:stream📚|📚https://rss.castbox.fm/everest/804026989c2249fb91d7d21f9438a9fc.xml
+Require Podcast📚|📚https://anchor.fm/s/139df89c/podcast/rss
+Retro Stories📚|📚http://retrostories.pl/feed/podcast
+Retrospektywa.com - podcast, w którym rozmawiamy o projektach!📚|📚https://retrospektywa.com/feed/podcast/
+Rób WordPressa📚|📚https://anchor.fm/s/fa8ca64/podcast/rss
+Robert Nawrowski📚|📚https://www.robertnawrowski.com/feed/podcast
+RollerCoaster📚|📚https://www.patrykdoering.pl/feed/podcast
+Rozmowa Kontrolowana📚|📚https://zaufanatrzeciastrona.pl/post/category/podcast/feed/
+Rozmowa Międzymiastowa📚|📚https://anchor.fm/s/8d8a470/podcast/rss
+Rozmówki Techno Logiczne📚|📚https://anchor.fm/s/1344c9c0/podcast/rss
+Rozmowy B2B📚|📚http://feeds.feedburner.com/RozmowyB2B?format=xml
+Rozmowy na classpathie📚|📚https://anchor.fm/s/2aea8fc4/podcast/rss
+Rozmowy na słuchawkach📚|📚https://www.spreaker.com/show/4351235/episodes/feed

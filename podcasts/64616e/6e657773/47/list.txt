@@ -1,0 +1,5 @@
+Genåbnet📚|📚https://www.omnycontent.com/d/playlist/1283f5f4-2508-4981-a99f-acb500e64dcf/2b5a69f0-5dee-4c2a-9c64-ad0800ae3c5e/2c17947a-b349-4c77-9fca-ad0800ae3c71/podcast.rss
+Genstart📚|📚https://api.dr.dk/podcasts/v1/feeds/genstart.xml?format=podcast
+Globalisten med Ole Nyeng📚|📚https://www.omnycontent.com/d/playlist/1283f5f4-2508-4981-a99f-acb500e64dcf/8c0ce2e6-e75a-4b82-8924-ad0800b11403/33254b99-59ed-4aa9-988a-ad0800b1140d/podcast.rss
+Gør Danmark Lidt Større📚|📚https://www.spreaker.com/show/3338151/episodes/feed
+Grønlandsudvalget📚|📚https://mobiltv.ft.dk/feed/GRU

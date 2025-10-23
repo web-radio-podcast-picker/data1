@@ -1,0 +1,17 @@
+tbs  이슈파이터📚|📚http://pod.ssenhosting.com/rss/tbstv/pbchannel_28520.xml
+tbs eFM  The Scoop📚|📚http://pod.ssenhosting.com/rss/tbsadm/pbchannel_36884.xml
+tbs eFM 新闻在路上(신문재로상)📚|📚http://pod.ssenhosting.com/rss/tbsadm/newsroad.xml
+TBS 김어준의 뉴스공장📚|📚https://api.podty.me/api/v1/share/cast/c96c0ce88ccd5ff87ad400606631c3e5996ab5c99464984eb01cf92eb2c292d5/167056
+TBS 김지윤의 이브닝쇼📚|📚http://pod.ssenhosting.com/rss/tbsadm/pbchannel_36857.xml
+tbs 라디오 와이파이📚|📚http://pod.ssenhosting.com/rss/tbsadm/wifi.xml
+tbs 라디오를 켜라 김보빈입니다📚|📚http://pod.ssenhosting.com/rss/tbsadm/radioon.xml
+tbs 색다른 시선, 김지윤입니다📚|📚http://pod.ssenhosting.com/rss/tbsadm/pbchannel_35718.xml
+tbs 색다른 시선, 이숙이입니다📚|📚http://pod.ssenhosting.com/rss/tbsadm/goinghome.xml
+tbs 서울속으로 황원찬입니다📚|📚http://pod.ssenhosting.com/rss/tbsadm/intoseoul.xml
+TBS 아고라📚|📚http://pod.ssenhosting.com/rss/tbsadm/pbchannel_36863.xml
+TBS 아닌 밤중에 주진우입니다📚|📚http://pod.ssenhosting.com/rss/tbsadm/pbchannel_36858.xml
+tbs 이정렬의 품격시대📚|📚http://pod.ssenhosting.com/rss/tbstv/classytimes.xml
+TBS 정준희의 해시태그📚|📚https://api.podty.me/api/v1/share/cast/e2e6993ae92949365918a06ffb9e48d8b0daa655d33457b7eaa798675f774642/203642
+TBS 최일구의 허리케인 라디오📚|📚http://pod.ssenhosting.com/rss/tbsadm/pbchannel_28183.xml
+Team11📚|📚http://pod.ssenhosting.com/rss/junha93/junha93.xml
+TellMe📚|📚http://cbspodcast.com/podcast/nocutv/tellme/tellme.xml

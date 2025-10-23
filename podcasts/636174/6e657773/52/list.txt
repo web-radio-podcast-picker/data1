@@ -1,0 +1,60 @@
+RAC1ncentrat - L'hora a hora📚|📚https://api.audioteca.rac1.cat/rss/rac1ncentrat
+Ràdio Argentona, les entrevistes de l'informatiu📚|📚https://www.ivoox.com/de/dedepodcast-radio-argentona_fg_f167825_filtro_1.xml
+Ràdio Arrels📚|📚https://anchor.fm/s/e81a6ec/podcast/rss
+Radio Baldomer📚|📚https://www.ivoox.com/feed_fg_f1838906_filtro_1.xml
+Ràdio Calvià📚|📚https://www.ivoox.com/feed_fg_f1284885_filtro_1.xml
+Ràdio Capital 15 anys. Cultura · Territori · Ràdio📚|📚https://www.ivoox.com/feed_fg_f1322573_filtro_1.xml
+Ràdio Ciutat de Tarragona - rctgn.cat📚|📚https://feeds.feedburner.com/rctgn
+Ràdio Ciutat de Tarragona | Tots els continguts rctgn.cat Radio📚|📚https://rctgn.cat/category/podcast/feed/
+Ràdio Ciutat de Tarragona📚|📚https://rctgn.cat/feed/
+Ràdio Ciutat de Valls📚|📚https://valls.radiociutat.com/feed/podcast/
+Ràdio Clownia📚|📚https://www.ivoox.com/podcast-radio-clownia_fg_f1552728_filtro_1.xml
+Ràdio Compromís📚|📚https://www.ivoox.com/feed_fg_f1265898_filtro_1.xml
+Ràdio Despí📚|📚https://www.ivoox.com/feed_fg_f182143_filtro_1.xml
+Ràdio Esparreguera📚|📚https://www.ivoox.com/feed_fg_f1271473_filtro_1.xml
+Radio Hadrian en català📚|📚https://www.ivoox.com/podcast-ric-radio-hadrian-catala_fg_f1506590_filtro_1.xml
+Ràdio Jove Hiperbòlica📚|📚https://www.ivoox.com/feed_fg_f1658405_filtro_1.xml
+Ràdio la Draga 18-19📚|📚https://www.ivoox.com/_fg_f1638909_filtro_1.xml
+Ràdio Les Borges 107.1FM📚|📚http://www.radiolesborges.cat/escoltans/arxiu/itunes.xml
+Ràdio Molins de Rei📚|📚https://www.ivoox.com/feed_fg_f1759943_filtro_1.xml
+Ràdio Nova Vilanova Informació📚|📚https://www.ivoox.com/feed_fg_f16049_filtro_1.xml
+Ràdio Olot Informa📚|📚https://www.ivoox.com//radio-olot-informa_fg_f1842985_filtro_1.xml
+Ràdio Premià de Mar backup📚|📚https://www.ivoox.com/_fg_f1011018_filtro_1.xml
+Radio SAFA📚|📚https://www.ivoox.com/_fg_f1583317_filtro_1.xml
+Ràdio Sant Fruitós (varis)📚|📚https://www.ivoox.com/_fg_f165889_filtro_1.xml
+Ràdio SPUNI - Notícies📚|📚https://www.ivoox.com/podcast-radio-spuni-noticies_fg_f1586778_filtro_1.xml
+Ràdio Terra📚|📚https://www.ivoox.com/feed_fg_f1132566_filtro_1.xml
+Radio Valentia Compromis📚|📚https://www.ivoox.com/feed_fg_f1569814_filtro_1.xml
+Radionomics📚|📚https://anchor.fm/s/12b9dedc/podcast/rss
+radiosantaeulalia📚|📚https://www.ivoox.com/feed_fg_f1290120_filtro_1.xml
+Rafael Vallbona📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/5/1/podseccio4115.xml
+Ramon Muntaner📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/4/2/podseccio3624.xml
+Rappressió📚|📚https://www.ivoox.com/feed_fg_f1663037_filtro_1.xml
+RealPolitik Podcast📚|📚https://www.ivoox.com/feed_fg_f1667861_filtro_1.xml
+Realpolitik📚|📚http://api.rtve.es/api/programas/111110/audios.rss
+Rebel·lió 3XL📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/2/7/podseccio2672.xml
+Recursos inhumans📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/3/7/podprograma1373.xml
+Remata-ho, Macià📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/0/5/podseccio3650.xml
+REPA fm📚|📚https://www.ivoox.com/_fg_f1824933_filtro_1.xml
+Reportatges amb plus de la Mariola Dinarès📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/9/4/podseccio3649.xml
+Reportatges: Eleccions 22-M📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/2/9/podseccio2892.xml
+Rescat d'un any: l'estat del 2012📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/4/8/podprograma1484.xml
+Respon el senyor alcalde📚|📚https://www.ivoox.com/feed_fg_f1271970_filtro_1.xml
+Resum de l'any: cinema📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/0/7/podprograma1770.xml
+Resum de l'any: esports📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/9/6/podprograma1769.xml
+Resum de l'any: informatius📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/7/6/podprograma1767.xml
+Resum de l'any: música clàssica📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/2/7/podprograma1772.xml
+Resum de l'any: música📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/6/6/podprograma1766.xml
+Resum de l'any: sèries📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/8/6/podprograma1768.xml
+Retalls📚|📚http://api.rtve.es/api/programas/23735/audios.rss
+Reunions Urbanístiques Abril-Maig 2018📚|📚https://www.ivoox.com/_fg_f1576563_filtro_1.xml
+Reviure Solanell📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/5/1/podseccio3315.xml
+Robert Casajuana Alujas📚|📚https://www.ivoox.com/feed_fg_f1623113_filtro_1.xml
+Roc Casagran (n. 1980)📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/3/4/podseccio3943.xml
+Roda d'Amics📚|📚https://www.cugat.cat/podcast/rodadamics.xml
+Ronda Política📚|📚https://www.ivoox.com/feed_fg_f1417128_filtro_1.xml
+Rosa Leveroni (1910-1992)📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/6/0/podseccio3906.xml
+Ròtova📚|📚https://www.ivoox.com/feed_fg_f119958_filtro_1.xml
+Rumescu📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/8/8/podprograma1888.xml
+Ruscalleda a la carta📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/0/0/podseccio2100.xml
+Ruta 76📚|📚https://dinamics.ccma.cat/public/podcast/catradio/xml/8/4/podseccio5648.xml

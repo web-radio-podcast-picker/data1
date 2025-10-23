@@ -1,0 +1,11 @@
+Ifri Podcasts📚|📚https://feeds.feedburner.com/ifri-paris-bruxelles
+Ile-de-France Politiques📚|📚https://feeds.simplecast.com/ojulmhxl
+Info ou intox📚|📚https://apis.france24.com/products/get_product/f24_getpodcast_by_nid?token_application=33d60288-7e20-11e9-884b-005056a9c687&program.entrepriseId=WB5346835-F24-FR-20190415
+Information Armée suisse📚|📚https://media.zem.ch/feed_fr.xml
+Insolite - Voix de l'Amérique📚|📚https://www.voaafrique.com/podcast/?count=50&zoneId=5635
+Instant Phileas📚|📚https://anchor.fm/s/1b9b6520/podcast/rss
+InterCités - RTS📚|📚https://www.rts.ch/la-1ere/programmes/intercites/podcast/?flux=rss
+Invité Afrique soir📚|📚https://www.rfi.fr/fr/podcasts/invite-afrique-soir/podcast
+iReMMO📚|📚https://anchor.fm/s/ca67ac8/podcast/rss
+Isaac Léo📚|📚https://anchor.fm/s/1410a284/podcast/rss
+Isolation termique📚|📚https://anchor.fm/s/361552bc/podcast/rss

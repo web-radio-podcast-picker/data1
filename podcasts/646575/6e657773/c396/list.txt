@@ -1,0 +1,13 @@
+Ö1 Digital.Leben📚|📚https://podcast.orf.at/podcast/oe1/oe1_digitalleben/oe1_digitalleben.xml
+Ö1 Europa-Journal📚|📚https://podcast.orf.at/podcast/oe1/oe1_europajournal/oe1_europajournal.xml
+Ö1 help📚|📚https://podcast.orf.at/podcast/oe1/oe1_help/oe1_help.xml
+Ö1 Infos en français📚|📚https://static.orf.at/podcast/oe1/oe1_actualites.xml
+Ö1 Klartext📚|📚https://podcast.orf.at/podcast/oe1/oe1_klartext/oe1_klartext.xml
+Ö1 matrix📚|📚https://podcast.orf.at/podcast/oe1/oe1_matrix/oe1_matrix.xml
+Ö1 Saldo📚|📚https://podcast.orf.at/podcast/oe1/oe1_saldo/oe1_saldo.xml
+Ö3 Nachrichten-Podcast📚|📚https://anchor.fm/s/10cef8f0/podcast/rss
+Ö3-Nachrichten📚|📚https://appfeeds.orf.at/radio.api/oe3/lastnews?format=rss
+Ö3-Nachrichten📚|📚https://appfeeds.orf.at/siri.api/oe3/lastnews?format=rss
+ÖDP Regensburg Podcast📚|📚https://oedp-podcast-regensburg.de/feed/mp3/
+ÖsterreichInfo📚|📚https://anchor.fm/s/2344bab0/podcast/rss
+Özgür Yorum📚|📚https://wirundheute.de/feeds/ozgur-yorum/mp3/rss/

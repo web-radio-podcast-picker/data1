@@ -1,0 +1,6 @@
+byebug - 우리들의 개발 이야기📚|📚http://api.podty.me/api/v1/share/cast/07c90719993b6797a40d8d60f8d38590d7296dc4cc8e059558867ee08b0a1465/197354
+개발 캐스트 투나IT !📚|📚http://pod.ssenhosting.com/rss/tunait/tunait.xml
+긱뉴스 GeekNews📚|📚http://api.podty.me/api/v1/share/cast/e48aa2fdfcdde8a437665662e2831ef2b9e5293adb92d3396bd07c5b680f4a43/211605
+매거진 읽어주는 팟캐스트!📚|📚http://feeds.feedburner.com/read_magazine_podcast
+아궁이 - IT가 궁금한 이들의 이야기📚|📚http://api.podty.me/api/v1/share/cast/f00af66208a35245f33b8ec6e396fdb9ba662a0ea026a330dc86f1d2e8c733bc/202880
+에버노트 팟캐스트📚|📚http://pod.ssenhosting.com/rss/cbsjin/evernote.xml

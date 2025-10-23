@@ -1,0 +1,3 @@
+양곡교회 주일예배 설교(음성)📚|📚http://www.yangkog.org/kiosk/podcast_audio.xml
+양누리 어울림(Y-books)📚|📚http://yangnuri3.github.io/podcast.xml
+양현웅 목사 주일설교📚|📚https://api.podty.me/api/v1/share/cast/1cd3c672cffb8d7cc1cb66c291b6e71d56b51460bb4bddcc3c05c271b807311b/203312
